@@ -4,6 +4,7 @@ public abstract class Student {
 
     private String name;
     private String surName;
+	private int age;
 
     public Student() {
     }
